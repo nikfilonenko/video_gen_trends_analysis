@@ -6,7 +6,7 @@ authors = [
     {name = "Nikita Filonenko",email = "nikdfil@yandex.ru"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12,<3.13"
 dependencies = [
     "pandas (>=2.2.3,<3.0.0)",
     "nltk (>=3.9.1,<4.0.0)",
