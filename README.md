@@ -1,6 +1,6 @@
 # About the project ***`video_gen_trends_analysis`***
 
-## Ноутбук с выполненным заданием: [Здесь](src/notebooks/arXiv_video_generation_trends.ipynb)
+## 📊 Ноутбук с выполненным заданием: [Здесь](src/notebooks/arXiv_video_generation_trends.ipynb)
 
 `src/notebooks/arXiv_video_generation_trends.ipynb`
 
